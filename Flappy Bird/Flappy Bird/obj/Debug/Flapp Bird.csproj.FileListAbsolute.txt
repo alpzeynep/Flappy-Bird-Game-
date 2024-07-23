@@ -1,0 +1,10 @@
+D:\code\c#\Flapp Bird\Flapp Bird\bin\Debug\Flapp Bird.exe.config
+D:\code\c#\Flapp Bird\Flapp Bird\bin\Debug\Flapp Bird.exe
+D:\code\c#\Flapp Bird\Flapp Bird\bin\Debug\Flapp Bird.pdb
+D:\code\c#\Flapp Bird\Flapp Bird\obj\Debug\Flapp Bird.csproj.AssemblyReference.cache
+D:\code\c#\Flapp Bird\Flapp Bird\obj\Debug\Flapp_Bird.Form1.resources
+D:\code\c#\Flapp Bird\Flapp Bird\obj\Debug\Flapp_Bird.Properties.Resources.resources
+D:\code\c#\Flapp Bird\Flapp Bird\obj\Debug\Flapp Bird.csproj.GenerateResource.cache
+D:\code\c#\Flapp Bird\Flapp Bird\obj\Debug\Flapp Bird.csproj.CoreCompileInputs.cache
+D:\code\c#\Flapp Bird\Flapp Bird\obj\Debug\Flapp Bird.exe
+D:\code\c#\Flapp Bird\Flapp Bird\obj\Debug\Flapp Bird.pdb
